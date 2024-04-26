@@ -11,7 +11,7 @@ const client = new Client({
 const app = express();
 const port = 3000;
 app.get('/', (req, res) => {
-  res.send('YaY Your Bot Status Changed✨');
+  res.send('Bot Surged');
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to Lunxr: http://localhost:${port}`);
@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["🩵 Made by Lunar"];
 
 
 let currentIndex = 0;
