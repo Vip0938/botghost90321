@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🩵 Made by Lunar"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
