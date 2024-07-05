@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⚡ /help | V2.8"];
+const statusMessages = ["⚡ Running V2.8 | /help"];
 
 
 let currentIndex = 0;
