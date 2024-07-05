@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["/help | 2.0"];
 
 
 let currentIndex = 0;
